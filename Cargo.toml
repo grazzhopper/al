@@ -1,0 +1,9 @@
+[package]
+name = "al"
+version = "0.1.0"
+description = "A scalable CLI personal AI assistant"
+authors = ["grazzhopper"]
+license = "GPL-3.0"
+edition = "2024"
+
+[dependencies]
